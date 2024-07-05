@@ -1,0 +1,9 @@
+img{
+    transition: ease;
+}
+
+.card:hover img{
+    scale: 1.07;
+    transition: ease-in;
+
+}
